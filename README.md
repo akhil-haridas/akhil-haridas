@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [https://akhil-k.vercel.app](https://akhil-k.vercel.app)
-
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **4khilharidas@gmail.com**
 
-- 📄 Know about my experiences [https://akhil-k.vercel.app/](https://akhil-k.vercel.app/)
+- 📄 Know about me [https://akhil-k.vercel.app/](https://akhil-k.vercel.app)
 
-- ⚡ Fun fact **Being the detective in a crime movie where you're also the murderer.**
+- ⚡ Fun fact is **Being the detective in a crime movie where you're also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
