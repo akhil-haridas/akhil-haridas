@@ -115,12 +115,12 @@ Oct 2023 — Dec 2025
 # GitHub Analytics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhil-haridas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhil-haridas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-haridas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-haridas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=akhil-haridas&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=akhil-haridas&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
